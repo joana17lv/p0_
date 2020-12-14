@@ -1,0 +1,35 @@
+@font-face {
+    font-family: 'Helvetica Neue LT Std';
+    src: url('../fonts/HelveticaNeueLTStd-HvCn.eot');
+    src: url('../fonts/HelveticaNeueLTStd-HvCn.eot?#iefix') format('embedded-opentype'),
+        url('../fonts/HelveticaNeueLTStd-HvCn.woff2') format('woff2'),
+        url('../fonts/HelveticaNeueLTStd-HvCn.woff') format('woff'),
+        url('../fonts/HelveticaNeueLTStd-HvCn.ttf') format('truetype'),
+        url('../fonts/HelveticaNeueLTStd-HvCn.svg#HelveticaNeueLTStd-HvCn') format('svg');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+h2 {
+    font-family: 'Helvetica Neue LT Std';
+}
+
+
+main {
+    background: yellow;
+}
+
+main¨ {
+    font-family: 'Roboto', sans-serif;
+
+}
+
+img{
+    width: 50% ;
+    height: auto ;
+}
+
+main{
+    background: yellow;
+}
